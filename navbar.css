@@ -52,5 +52,5 @@ nav a:hover::before{
     width: 100%;
 }
 body{
-    background-image: url(img/texturebackground.jpg);
+    background-image: url(img/backgroundtexture1.jpg);
 }
